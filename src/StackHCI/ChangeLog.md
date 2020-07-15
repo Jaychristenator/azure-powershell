@@ -19,5 +19,5 @@
 -->
 ## Upcoming Release
 
-## Version 1.0.0
+## Version 0.1.0
 * Public Preview of `Az.StackHCI` module

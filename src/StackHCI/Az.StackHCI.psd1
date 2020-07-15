@@ -12,13 +12,13 @@
 RootModule = 'Az.StackHCI.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.0.1'
+ModuleVersion = '0.1.0'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
 
 # ID used to uniquely identify this module
-GUID = '04280841-a6a0-4929-83bc-9d2e99771bb4'
+GUID = '7a80d748-b6f0-42d1-a08d-215c5a006769'
 
 # Author of this module
 Author = 'Microsoft Corporation'

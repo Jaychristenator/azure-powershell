@@ -1,7 +1,7 @@
 ---
 external help file: Az.StackHCI-help.xml
 Module Name: Az.StackHCI
-online version:
+online version: https://docs.microsoft.com/en-us/powershell/module/az.stackhci/register-azstackhci
 schema: 2.0.0
 ---
 
